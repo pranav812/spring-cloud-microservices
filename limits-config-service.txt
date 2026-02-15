@@ -1,1 +1,3 @@
-hello 
+
+limits-service.minimum=10
+limits-service.maximum=2000
